@@ -1,2 +1,4 @@
 *.swp
-.idea
+.ideanode_modules
+node_modules
+.idea/
